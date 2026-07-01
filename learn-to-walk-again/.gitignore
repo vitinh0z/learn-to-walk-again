@@ -24,3 +24,7 @@ out/
 # ===== SO =====
 .DS_Store
 Thumbs.db
+
+# ===== CLAUDE =====
+.claude
+.omc
